@@ -1,0 +1,8 @@
+{
+  "name": "DADA AI",
+  "description": "AI-powered smart car rental and travel planning assistant with Veo video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
