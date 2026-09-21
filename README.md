@@ -3,6 +3,7 @@
 </div>
 
 # Run and deploy your AI Studio app
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/qian-xia666/dada-)
 
 This contains everything you need to run your app locally.
 
